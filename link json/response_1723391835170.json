@@ -1,0 +1,18 @@
+[
+  {
+    "namaProgram": null,
+    "tanggalMulai": null,
+    "tanggalSelesai": null,
+    "idPrograms": 2,
+    "programs": "Kerjasama",
+    "status": null
+  },
+  {
+    "namaProgram": "meeting",
+    "tanggalMulai": "2024-08-11T13:23:50.723+00:00",
+    "tanggalSelesai": "2024-08-11T13:23:50.723+00:00",
+    "idPrograms": 2,
+    "programs": "Kerjasama",
+    "status": "1"
+  }
+]

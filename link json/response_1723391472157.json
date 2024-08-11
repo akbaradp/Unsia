@@ -1,0 +1,26 @@
+{
+  "msg": "Success",
+  "status": true,
+  "data": {
+    "idUser": 5,
+    "namaLengkap": null,
+    "alamat": "Jakarta utara",
+    "tanggalLahir": null,
+    "email": null,
+    "noHp": null,
+    "namaInstansi": "PT.Juragan",
+    "jabatan": null,
+    "namaInstagram": null,
+    "namafacebook": null,
+    "idPrograms": 5,
+    "namaProgram": "Metting",
+    "namaKegiatan": "Bahas Project 4",
+    "namaPic": "Alex",
+    "tanggalMulai": "2024-08-11T15:28:43.059+00:00",
+    "tanggalSelesai": "2024-08-11T15:28:43.059+00:00",
+    "status": "1",
+    "namaPicpt": "Wowo",
+    "link": null,
+    "qrCode": null
+  }
+}

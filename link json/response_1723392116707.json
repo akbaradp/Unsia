@@ -1,0 +1,8 @@
+{
+  "msg": "Success",
+  "status": true,
+  "data": {
+    "idPrograms": 3,
+    "programs": "Kuliah"
+  }
+}

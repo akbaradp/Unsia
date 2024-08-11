@@ -1,0 +1,26 @@
+{
+  "msg": "Success",
+  "status": true,
+  "data": {
+    "idUser": 4,
+    "namaLengkap": "Diana Veronica",
+    "alamat": "Kota Bogor",
+    "tanggalLahir": "2024-08-11T15:28:56.664+00:00",
+    "email": "diana123@gmail.com",
+    "noHp": "099685772",
+    "namaInstansi": "PT.Abdi Sentosa",
+    "jabatan": "Content Creator",
+    "namaInstagram": "Diana_",
+    "namafacebook": "DianaV",
+    "idPrograms": 2,
+    "namaProgram": null,
+    "namaKegiatan": null,
+    "namaPic": null,
+    "tanggalMulai": null,
+    "tanggalSelesai": null,
+    "status": null,
+    "namaPicpt": null,
+    "link": null,
+    "qrCode": null
+  }
+}

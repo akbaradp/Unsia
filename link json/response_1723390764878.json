@@ -1,0 +1,33 @@
+{
+  "msg": "SUCCESS",
+  "data": [
+    {
+      "idUser": 1,
+      "nama": "Roni",
+      "email": "ezio@gmail.com",
+      "noHp": "0218352241",
+      "program": "Kerjasama"
+    },
+    {
+      "idUser": 2,
+      "nama": "Yudi Sebastian",
+      "email": "Yudi@gmail.com",
+      "noHp": "099698768",
+      "program": "Sekolah"
+    },
+    {
+      "idUser": 3,
+      "nama": "Handoyo Susanto",
+      "email": "Handoyo@gmail.com",
+      "noHp": "0986654623",
+      "program": "Kerjasama"
+    },
+    {
+      "idUser": 4,
+      "nama": "Diana Veronica",
+      "email": "diana123@gmail.com",
+      "noHp": "099685772",
+      "program": "Kerjasama"
+    }
+  ]
+}

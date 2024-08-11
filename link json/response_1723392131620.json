@@ -1,0 +1,18 @@
+{
+  "msg": "Success",
+  "status": true,
+  "data": [
+    {
+      "idPrograms": 1,
+      "programs": "Sekolah"
+    },
+    {
+      "idPrograms": 2,
+      "programs": "Kerjasama"
+    },
+    {
+      "idPrograms": 3,
+      "programs": "Kuliah"
+    }
+  ]
+}
